@@ -1,2 +1,2 @@
-# wylandlzz99.github.io
+# SRELzz04.github.io
 my first fucking hexo blog
